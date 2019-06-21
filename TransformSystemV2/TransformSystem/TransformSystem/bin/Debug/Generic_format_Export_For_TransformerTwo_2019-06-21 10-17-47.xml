@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStandardFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandardFormat>
+    <AccountCode>NewCode</AccountCode>
+    <Name>My Account</Name>
+    <Type>Fund</Type>
+    <OpenDate xsi:nil="true" />
+    <Currency>CAD</Currency>
+  </StandardFormat>
+  <StandardFormat>
+    <AccountCode>RandomCode</AccountCode>
+    <Name>XYZ Account</Name>
+    <Type>RESP</Type>
+    <OpenDate xsi:nil="true" />
+    <Currency>USD</Currency>
+  </StandardFormat>
+  <StandardFormat>
+    <AccountCode>HashCode</AccountCode>
+    <Name>Your Account</Name>
+    <Type>Trading</Type>
+    <OpenDate xsi:nil="true" />
+    <Currency>CAD</Currency>
+  </StandardFormat>
+</ArrayOfStandardFormat>

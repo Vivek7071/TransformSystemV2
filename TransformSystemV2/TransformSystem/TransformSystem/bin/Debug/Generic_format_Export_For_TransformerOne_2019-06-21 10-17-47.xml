@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStandardFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandardFormat>
+    <AccountCode>AbcCode</AccountCode>
+    <Name>My Account</Name>
+    <Type>Trading</Type>
+    <OpenDate>2018-01-01T00:00:00</OpenDate>
+    <Currency>CAD</Currency>
+  </StandardFormat>
+  <StandardFormat>
+    <AccountCode>TestCode</AccountCode>
+    <Name>Test Account</Name>
+    <Type>RRSP</Type>
+    <OpenDate>2018-03-02T00:00:00</OpenDate>
+    <Currency>USD</Currency>
+  </StandardFormat>
+  <StandardFormat>
+    <AccountCode>SomeCode</AccountCode>
+    <Name>Some Account</Name>
+    <Type>RESP</Type>
+    <OpenDate>2018-03-12T00:00:00</OpenDate>
+    <Currency>CAD</Currency>
+  </StandardFormat>
+</ArrayOfStandardFormat>
